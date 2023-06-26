@@ -1,3 +1,9 @@
+## Bioinformatics Group Freiburg group talk
+
+### References
+
+Erady, Chaitanya, et al. "Pan-cancer analysis of transcripts encoding novel open-reading frames (nORFs) and their potential biological functions." NPJ Genomic Medicine 6.1 (2021): 4.
+
 ### Template for creating slides in reveal.js
 
 The reveal.js framework comes with a broad range of features including nested slides, Markdown support, PDF export, speaker notes, LaTeX support and syntax highlighted code.
