@@ -10,8 +10,7 @@ Cristobal Gallardo Alba
 ### Index of contents
 
 - Introduction
-- Experimental design
-- Galaxy pipeline
+- Galaxy pipeline description
 - Conclusion
 
 ---
@@ -20,27 +19,12 @@ Cristobal Gallardo Alba
 
 #### Introduction
 
-### What do we mean by *non-canonical ORFs*?
+#### What do we mean by *non-canonical ORFs*?
+
+<img src="img/dark_proteome.png" alt="drawing" width="800"/>
 
 Note:
 nORFs are uncharacterized and unnanotated open-reading frames with functional relevance.
-
-------
-
-<span class="menu-title" style="display: none">Introduction</span>
-
-#### Introduction
-
-### Why have not been yet characterized?
-
-
-<div style="text-align:left; font-size:30px">
-
-- Arbitrary thresholds on ORF lengths
-- Annotated as noncoding RNAs or pseudogenes
-- Propensity for structural disorder
-
-</div>
 
 ------
 
@@ -66,28 +50,101 @@ Canonical ORFs are depicted as blue dots and novel ORFs are depicted by orange d
 
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
+
 <div style="text-align:left; font-size:30px">
 
-- Novel prognostic and diagnostic markers
-- Particulary attractive as allosteric celullar regulators
+- Potentially novel prognostic and diagnostic markers
 - The vast majority of non-canonical peptides have not been investigated
+- Particulary attractive as allosteric celullar regulators
+
 </div>
+
 </span>
-<span class="fragment" data-fragment-index="0">
+<span class="fragment current-visible" data-fragment-index="0">
+
+<img src="img/non-canonical_nature.png" alt="drawing" width="1000"/>
+
+</span>
+</div>
+
+------
+
+#### Introduction
+
+### Why have not been yet characterized?
+
+
+<div style="text-align:left; font-size:30px">
+
+- Arbitrary thresholds on ORF lengths
+- Annotated as noncoding RNAs or pseudogenes
+- <span class="fragment highlight-current-red" style="font-size:30px">Propensity for structural disorder</span>
+
+</div>
+
+------
+
+#### Introduction
+
+#### Why study intrinsically disordered proteins (IDP)?
+
 <div class="r-stack">
-<img class="fragment fade-out" data-fragment-index="1" src="img/non-canonical_nature.png" alt="drawing" width="800"/>
-<img class="fragment current-visible" data-fragment-index="1" src="img/non-canonical_nature2.png" alt="drawing" width="600"/>
+<span class="fragment fade-out" data-fragment-index="0">
+<img src="img/intrinsically_disordered.png" alt="drawing" width="600"/>
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
+<img src="img/disorder_protein.jpg" alt="drawing" width="1000"/>
+</span>
+</span>
+<span class="fragment">
+<span class="fragment" data-fragment-index="0">
+Allostery mediated by IDPs ensures robust and efficient signal integration through <span class="fragment highlight-current-red"><b>mechanisms that would be extremely unfavorable or even impossible for globular protein interaction partners</b></span>.
+<p><br><small><small>Berlow, R. B., Dyson, H. J., & Wright, P. E. (2018). Expanding the paradigm: intrinsically disordered proteins and allosteric regulation. Journal of molecular biology, 430(16), 2309-2320.</small></small></p></span>
 </div>
+
+------
+
+<span class="menu-title" style="display: none">Introduction</span>
+
+#### Introduction
+
+### How identify non-canonical ORFs?
+
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
+<img src="img/scientist.jpg" alt="drawing" width="500"/>
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
+<img src="img/non-canonical_nature2.png" alt="drawing" width="600"/>
+</span>
+</span>
+<span class="fragment">
+<img src="img/isoform_switching.png" alt="drawing"/>
+</span>
+</div>
+
+------
+
+#### Introduction
+
+#### Genome-wide alternative splicing analysis
+
+<div class="r-stack">
+<span class="fragment fade-out" data-fragment-index="0">
+
+<img src="img/galaxy_training.png" alt="drawing" width="700"/>
+
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
+
+<img src="img/intro_results.png" alt="drawing" width="900"/>
+
 </span>
 </div>
 
 ---
 
-#### Experimental design
-
----
-
-#### Galaxy pipeline
+### Galaxy pipeline decription
 
 
 ---
