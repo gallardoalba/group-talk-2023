@@ -76,10 +76,9 @@ Canonical ORFs are depicted as blue dots and novel ORFs are depicted by orange d
 
 <div style="text-align:left; font-size:30px">
 
-- Arbitrary thresholds on ORF lengths
-- <span class="fragment highlight-current-red" style="font-size:30px">Propensity for structural disorder</span>
+- <span class="fragment highlight-current-red" style="font-size:30px">Arbitrary thresholds on ORF lengths</span>
 - <span class="fragment highlight-current-red" style="font-size:30px">Annotated as noncoding RNAs or pseudogenes</span>
-
+- <span class="fragment highlight-current-red" style="font-size:30px">Propensity for structural disorder</span>
 
 </div>
 
@@ -111,31 +110,17 @@ Allostery mediated by IDPs ensures robust and efficient signal integration throu
 
 ### How identify non-canonical ORFs?
 
+
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
 <img src="img/scientist.jpg" alt="drawing" width="500"/>
 </span>
 <span class="fragment current-visible" data-fragment-index="0">
-<img src="img/non-canonical_nature2.png" alt="drawing" width="600"/>
+<img src="img/isoform_switching.png" alt="drawing" width="900"/>
 </span>
 </span>
 <span class="fragment">
-<img src="img/isoform_switching.png" alt="drawing"/>
-</span>
-</div>
-
-------
-
-#### Introduction
-
-#### Genome-wide alternative splicing analysis
-
-<div class="r-stack">
-<span class="fragment fade-out" data-fragment-index="0">
-<img src="img/galaxy_training.png" alt="drawing" width="800"/>
-</span>
-<span  data-fragment-index="0">
-<img src="img/intro_results.png" alt="drawing" width="800"/>
+<img src="img/intro_results.png" alt="drawing" width="700"/>
 </span>
 </div>
 
