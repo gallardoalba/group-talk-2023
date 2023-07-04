@@ -77,8 +77,9 @@ Canonical ORFs are depicted as blue dots and novel ORFs are depicted by orange d
 <div style="text-align:left; font-size:30px">
 
 - Arbitrary thresholds on ORF lengths
-- Annotated as noncoding RNAs or pseudogenes
 - <span class="fragment highlight-current-red" style="font-size:30px">Propensity for structural disorder</span>
+- <span class="fragment highlight-current-red" style="font-size:30px">Annotated as noncoding RNAs or pseudogenes</span>
+
 
 </div>
 
