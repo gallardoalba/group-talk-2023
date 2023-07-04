@@ -131,14 +131,10 @@ Allostery mediated by IDPs ensures robust and efficient signal integration throu
 
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
-
-<img src="img/galaxy_training.png" alt="drawing" width="700"/>
-
+<img src="img/galaxy_training.png" alt="drawing" width="800"/>
 </span>
-<span class="fragment current-visible" data-fragment-index="0">
-
-<img src="img/intro_results.png" alt="drawing" width="900"/>
-
+<span  data-fragment-index="0">
+<img src="img/intro_results.png" alt="drawing" width="800"/>
 </span>
 </div>
 
