@@ -142,7 +142,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 - Frequently annotated as non-coding RNAs
 
 - Propensity for structural disorder
-    -  Encode as intrinsically disordered proteins (IDPs)
+    -  Discarted as intrinsically disordered proteins (IDPs)
 
 </div>
 
