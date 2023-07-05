@@ -142,7 +142,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 - Frequently annotated as non-coding RNAs
 
 - Propensity for structural disorder
-    -  Discarted as as intrinsically disordered proteins (IDPs)
+    -  Encode as intrinsically disordered proteins (IDPs)
 
 </div>
 
@@ -182,7 +182,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 - <span class="fragment highlight-current-red" style="font-size:30px">Frequently annotated as non-coding RNAs</span>
 
 - Propensity for structural disorder
-    -  Discarted as as intrinsically disordered proteins (IDPs)
+    -  Discarted as intrinsically disordered proteins (IDPs)
 
 </div>
 
@@ -223,7 +223,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 - Frequently annotated as non-coding RNAs
 
 - <span class="fragment highlight-current-red" style="font-size:30px">Propensity for structural disorder</span>
-    -  <span class="fragment highlight-current-red" style="font-size:30px">Discarted as as intrinsically disordered proteins (IDPs)</span> 
+    -  <span class="fragment highlight-current-red" style="font-size:30px">Discarted as intrinsically disordered proteins (IDPs)</span> 
 
 </div>
 
