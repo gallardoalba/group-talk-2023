@@ -33,7 +33,7 @@ Cristobal Gallardo Alba
 
 ------
 
-<span class="menu-title" style="display: none">Introduction</span>
+<span class="menu-title" style="display: none"> What do we mean by non-canonical ORFs?</span>
 
 #### What do we mean by *non-canonical ORFs*?
 
@@ -60,8 +60,6 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ------
 
-<span class="menu-title" style="display: none">Introduction</span>
-
 <div style="text-align:left; font-size:40px"><br>
 
 ### 1. Introduction
@@ -78,7 +76,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ------
 
-<span class="menu-title" style="display: none">Introduction</span>
+<span class="menu-title" style="display: none">Why study non-canonical ORFs?</span>
 
 <span  style="text-align:left">
 
@@ -110,8 +108,6 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ------
 
-<span class="menu-title" style="display: none">Introduction</span>
-
 <div style="text-align:left; font-size:40px"><br>
 
 ### 1. Introduction
@@ -127,6 +123,8 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 </div>
 
 ------
+
+<span class="menu-title" style="display: none">Why have not been characterized?</span>
 
 <span  style="text-align:left">
 
@@ -151,8 +149,9 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ------
 
-### Why study small peptides?
+<span class="menu-title" style="display: none">Why study small peptides?</span>
 
+### Why study small peptides?
 
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
@@ -188,6 +187,8 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 </div>
 
 ------
+
+<span class="menu-title" style="display: none">Annotated as non-coding RNAs?</span>
 
 #### Annotated as non-coding RNAs?
 
@@ -228,6 +229,9 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ------
 
+<span class="menu-title" style="display: none">Why study intrinsically disordered proteins (IDP)?</span>
+
+
 #### Why study intrinsically disordered proteins (IDP)?
 
 <div class="r-stack">
@@ -251,8 +255,6 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ------
 
-<span class="menu-title" style="display: none">Introduction</span>
-
 <div style="text-align:left; font-size:40px"><br>
 
 ### 1. Introduction
@@ -269,7 +271,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ------
 
-<span class="menu-title" style="display: none">Introduction</span>
+<span class="menu-title" style="display: none">How identify non-canonical ORFs?</span>
 
 ### How identify non-canonical ORFs?
 
@@ -296,6 +298,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ------
 
+<span class="menu-title" style="display: none">Galaxy Workflow</span>
 
 #### Galaxy Workflow
 
@@ -372,6 +375,9 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 - <span class="fragment highlight-current-red">3. Preliminary results</span>
 
 ------
+
+<span class="menu-title" style="display: none">Preliminary results</span>
+
 
 #### Preliminary results
 
