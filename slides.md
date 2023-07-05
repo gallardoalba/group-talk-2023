@@ -393,4 +393,6 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ---
 
+<img src="img/closing_image.png" alt="drawing" width="700"/>
+
 Thanks for you attention!
