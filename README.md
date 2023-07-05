@@ -4,8 +4,7 @@ Galaxy pipeline for the identification of non-canonical ORFs and their potential
 
 ### References
 
-<small>
-Babu, M. M., Kriwacki, R. W., & Pappu, R. V. (2012). Versatility from protein disorder. Science, 337(6101), 1460-1461.
+Babu, M., Kriwacki, R. W., & Pappu, R. V. (2012). Versatility from protein disorder. Science, 337(6101), 1460-1461.
 
 Berlow, R. B., Dyson, H. J., & Wright, P. E. (2018). Expanding the paradigm: intrinsically disordered proteins and allosteric regulation. Journal of molecular biology, 430(16), 2309-2320.
 
@@ -24,7 +23,6 @@ Steinberg, R., & Koch, H. G. (2021). The largely unexplored biology of small pro
 Vitting-Seerup, K., & Sandelin, A. (2019). IsoformSwitchAnalyzeR: analysis of changes in genome-wide patterns of alternative splicing and its functional consequences. Bioinformatics, 35(21), 4469-4471.
 
 Wright, B. W., Yi, Z., Weissman, J. S., & Chen, J. (2022). The dark proteome: translation from noncanonical open reading frames. Trends in Cell Biology, 32(3), 243-258.
-</small>
 
 ### Template for creating slides in reveal.js
 
