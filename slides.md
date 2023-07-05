@@ -159,7 +159,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 </span>
 <span class="fragment" data-fragment-index="0">
 <img src="img/small_peptides_examples.png" alt="drawing"  width="600"/>
-<p  style="font-size:20px">Example: In eukaryotes, small proteins upregulate proteases and chaperones and downregulation of protein synthesis when cells encounter ER stress. </p>
+<p  style="font-size:20px">Example: In eukaryotes, small proteins upregulate proteases and chaperones and downregulate protein synthesis when cells encounter ER stress. </p>
 <p style="font-size:14px">Source: Steinberg, R., & Koch, H. G. (2021). The largely unexplored biology of small proteins in pro- and eukaryotes. The FEBS journal, 288(24), 7002-7024.</p>
 </span>
 </div>
