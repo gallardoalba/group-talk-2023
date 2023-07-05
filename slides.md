@@ -120,7 +120,7 @@ Allostery mediated by IDPs ensures robust and efficient signal integration throu
 </span>
 </span>
 <span class="fragment">
-<img src="img/intro_results.png" alt="drawing" width="700"/>
+<img src="img/isoform_switching.jpg" alt="drawing" width="600"/>
 </span>
 </div>
 
