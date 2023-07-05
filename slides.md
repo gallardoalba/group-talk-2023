@@ -21,7 +21,7 @@ Cristobal Gallardo Alba
 
 ### 1. Introduction
 
-- <span class="fragment highlight-current-red">1.1. What do we mean by *non-canonical ORFs*?</span>
+- <span class="fragment highlight-current-red">1.1. What do we mean by non-canonical ORFs?</span>
 
 - 1.2. Why study non-canonical ORFs?
 
@@ -35,23 +35,22 @@ Cristobal Gallardo Alba
 
 <span class="menu-title" style="display: none"> What do we mean by non-canonical ORFs?</span>
 
-#### What do we mean by *non-canonical ORFs*?
+#### What do we mean by non-canonical ORFs?
 
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
-
-
+<img src="img/cambridge_dictionary.png" alt="drawing" width="900"/>
+<p  style="font-size:20px">Source: <a href="https://dictionary.cambridge.org/dictionary/english/canonical">Cambridge dictionary</a></p>
+</span>
+<span class="fragment current-visible" data-fragment-index="0">
 <img src="img/expression_distribution.png" alt="drawing" width="600"/>
 <p  style="font-size:20px">Mean Ribo-Seq expression and Ribo-Seq expression standard deviation (SD). </p>
 <p style="font-size:14px;">Source: Erady, Chaitanya, et al. "Pan-cancer analysis of transcripts encoding novel open-reading frames (nORFs) and their potential biological functions." NPJ Genomic Medicine 6.1 (2021): 4.</p>
-
 </span>
-<span class="fragment current-visible" data-fragment-index="0">
-
+</span>
+<span class="fragment current-visible" data-fragment-index="1">
 <img src="img/dark_proteome.png" alt="drawing" width="1000"/>
-
 </span>
-</div>
 
 
 Note:
@@ -64,7 +63,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ### 1. Introduction
 
-- 1.1. What do we mean by *non-canonical ORFs*?
+- 1.1. What do we mean by non-canonical ORFs?
 
 - <span class="fragment highlight-current-red">1.2. Why study non-canonical ORFs?</span>
 
@@ -112,7 +111,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ### 1. Introduction
 
-- 1.1. What do we mean by *non-canonical ORFs*?
+- 1.1. What do we mean by non-canonical ORFs?
 
 - 1.2. Why study non-canonical ORFs?
 
@@ -258,7 +257,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 ### 1. Introduction
 
-- 1.1. What do we mean by *non-canonical ORFs*?
+- 1.1. What do we mean by non-canonical ORFs?
 
 - 1.2. Why study non-canonical ORFs?
 
