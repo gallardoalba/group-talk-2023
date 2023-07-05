@@ -246,7 +246,6 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 </span>
 <span class="fragment current-visible" data-fragment-index="1">
 <img src="img/intrinsically_disordered.png" alt="drawing" width="700"/>
-<p style="font-size:14px;">Source: Chakrabarti, P., & Chakravarty, D. (2022). Intrinsically disordered proteins/regions and insight into their biomolecular interactions. Biophysical Chemistry, 283, 106769.</p>
 </span>
 <span class="fragment current-visible" data-fragment-index="2">
 <img src="img/disorder_protein.jpg" alt="drawing" width="1000"/>
