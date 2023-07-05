@@ -276,7 +276,7 @@ nORFs are uncharacterized and unnanotated open-reading frames with functional re
 
 <div class="r-stack">
 <span class="fragment fade-out" data-fragment-index="0">
-<img src="img/scientist.jpg" alt="drawing" width="500"/>
+<img src="img/scientist.jpg" alt="drawing" width="550"/>
 </span>
 <span class="fragment current-visible" data-fragment-index="0">
 <img src="img/isoform_switching.png" alt="drawing" width="900"/>
