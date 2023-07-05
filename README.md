@@ -4,7 +4,7 @@ Galaxy pipeline for the identification of non-canonical ORFs and their potential
 
 ### References
 
-Babu, M. M., Kriwacki, R. W., & Pappu, R. V. (2012). Versatility from protein disorder. Science, 337(6101), 1460-1461.
+Babu, M., Kriwacki, R. W., & Pappu, R. V. (2012). Versatility from protein disorder. Science, 337(6101), 1460-1461.
 
 Berlow, R. B., Dyson, H. J., & Wright, P. E. (2018). Expanding the paradigm: intrinsically disordered proteins and allosteric regulation. Journal of molecular biology, 430(16), 2309-2320.
 
