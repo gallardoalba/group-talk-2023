@@ -12,11 +12,11 @@ Chakrabarti, P., & Chakravarty, D. (2022). Intrinsically disordered proteins/reg
 
 Choi, S. W., Kim, H. W., & Nam, J. W. (2019). The small peptide world in long noncoding RNAs. Briefings in bioinformatics, 20(5), 1853-1864.
 
-Erady, Chaitanya, et al. "Pan-cancer analysis of transcripts encoding novel open-reading frames (nORFs) and their potential biological functions." NPJ Genomic Medicine 6.1 (2021): 4.
+Erady, Chaitanya, et al. (2021). Pan-cancer analysis of transcripts encoding novel open-reading frames (nORFs) and their potential biological functions." NPJ Genomic Medicine 6.1: 4.
 
-Luo, X., Huang, Y., Li, H., Luo, Y., Zuo, Z., Ren, J., & Xie, Y. (2022). SPENCER: a comprehensive database for small peptides encoded by noncoding RNAs in cancer patients. Nucleic Acids Research, 50(D1), D1373-D1381.
+Luo, X., Huang, Y. et al. (2022). SPENCER: a comprehensive database for small peptides encoded by noncoding RNAs in cancer patients. Nucleic Acids Research, 50(D1), D1373-D1381.
 
-Prensner, J. R., Enache, O. M., Luria, V., Krug, K., Clauser, K. R., Dempster, J. M., ... & Golub, T. R. (2021). Noncanonical open reading frames encode functional proteins essential for cancer cell survival. Nature biotechnology, 39(6), 697-704.
+Prensner, J. R., Enache, et al. (2021). Noncanonical open reading frames encode functional proteins essential for cancer cell survival. Nature biotechnology, 39(6), 697-704.
 
 Steinberg, R., & Koch, H. G. (2021). The largely unexplored biology of small proteins in pro‐and eukaryotes. The FEBS journal, 288(24), 7002-7024.
 
