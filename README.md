@@ -2,6 +2,8 @@
 
 Galaxy pipeline for the identification of non-canonical ORFs and their potential biological function.
 
+![alt text](https://github.com/gallardoalba/group-talk-2023/blob/bad51e0091bfc0a971c527f1a62b80456c8d4995/img/question.jpg)
+
 ### References
 
 Babu, M., Kriwacki, R. W., & Pappu, R. V. (2012). Versatility from protein disorder. Science, 337(6101), 1460-1461.
