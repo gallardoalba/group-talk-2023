@@ -2,7 +2,7 @@
 
 Galaxy pipeline for the identification of non-canonical ORFs and their potential biological function.
 
-![alt text](https://github.com/gallardoalba/group-talk-2023/blob/bad51e0091bfc0a971c527f1a62b80456c8d4995/img/question.jpg)
+![alt text](https://github.com/gallardoalba/group-talk-2023/blob/fa4557b3a6ca9a50818b44c2a3106b2b661709de/img/scientist.jpg)
 
 ### References
 
